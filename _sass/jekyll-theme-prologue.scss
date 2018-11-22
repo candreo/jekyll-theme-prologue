@@ -2,7 +2,7 @@
 @import 'libs/functions';
 @import 'libs/mixins';
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+@import url("https://fonts.googleapis.com/css?family=Cabin");
 
 /*
 	Prologue by HTML5 UP
@@ -61,7 +61,7 @@
 
 	body {
 		background: #fff;
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Cabin', sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.0em;
@@ -74,7 +74,7 @@
 	}
 
 	input, textarea, select {
-		font-family: 'Roboto', sans-serif;
+		font-family: 'Cabin', sans-serif;
 		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.0em;
