@@ -81,7 +81,7 @@
 		color: #1C1B1F;
 	}
 
-	h1, h2, h3, h4, h5, h6, h7 {
+	h1, h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		color: #1F1F26;
 		line-height: 1.1em;
@@ -106,6 +106,9 @@
 	}
 
 	h7 {
+		font-weight: 300;
+		color: rgb(255, 255, 255);
+		line-height: 1.1em;
 		font-size: 4em;
 		text-shadow: 2px 2px #E8E8E8
 	}
